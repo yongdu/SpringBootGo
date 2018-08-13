@@ -1,6 +1,8 @@
 /target/
 */target/*
 
+/build/
+*/build/*
 
 ### STS ###
 .apt_generated
